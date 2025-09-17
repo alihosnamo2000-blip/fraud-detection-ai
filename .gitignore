@@ -7,8 +7,7 @@ __pycache__/
 # ملفات البيانات الكبيرة
 data/*.csv
 data/*.xlsx
-
-
+libraries/*.whl
 # ملفات النظام المؤقتة
 .DS_Store
 Thumbs.db
