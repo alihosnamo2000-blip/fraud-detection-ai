@@ -1,0 +1,9 @@
+📊 Evaluation Metrics
+
+Precision: 0.0445
+Recall: 0.9286
+F1 Score: 0.0849
+Confusion Matrix:
+[[54909, 1955], [7, 91]]
+
+AUC Score: 0.9747
