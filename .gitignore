@@ -1,0 +1,26 @@
+
+# ملفات بيئة التشغيل
+.venv/
+__pycache__/
+*.pyc
+
+# ملفات البيانات الكبيرة
+data/*.csv
+data/*.xlsx
+
+
+# ملفات النظام المؤقتة
+.DS_Store
+Thumbs.db
+
+# ملفات Gradio المؤقتة
+*.log
+*.tmp
+
+# ملفات Jupyter 
+.ipynb_checkpoints/
+
+# ملفات بيئة VS Code
+.vscode/
+ libraries/
+.gradio/
